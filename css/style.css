@@ -38,6 +38,7 @@ h3{
 }
 
 .mountain{
+    position: absolute; 
     widht: 50%;
 }
 .intro{
