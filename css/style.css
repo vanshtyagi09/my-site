@@ -47,6 +47,7 @@ h3{
 }
 
 .top-container{
+    width: 100%;
     background-color: #E4F9F5;
     margin: 0px;
     position: relative;
