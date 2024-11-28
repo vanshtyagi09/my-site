@@ -1,35 +1,7 @@
-/* Styles for screens smaller than 600px */
-
-@media (max-width: 600px) {
-
-  .my-element {
-
-    font-size: 14px;
-
-    width: 100%;
-
-  }
-
-}
-
-
-
-/* Styles for larger screens */
-
-@media (min-width: 601px) {
-
-  .my-element {
-
-    font-size: 16px;
-
-    width: 50%;
-
-  }
-
-} 
 
 
 body{
+    width: 100%;
     color: #40514E;
     margin: 0;
     text-align: center;
